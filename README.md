@@ -1,6 +1,6 @@
-# components_app
+# Components App
 
-A new Flutter project.
+Proyecto de flutter para practicas con elementos de flutter y animaciones que se crean
 
 ## Getting Started
 
